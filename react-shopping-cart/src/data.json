@@ -1,0 +1,36 @@
+{
+    "products":[
+       { "id":1,
+        "name":"Aspirin",
+        "description": "100 mg Table Generic",
+        "form": "Table",
+        "price": 5.99,
+        "unitSize": ["100","150"],
+        "image": "/images/aspirin1.jpg"
+       },
+       { "id":2,
+        "name":"Vitamin C",
+        "description": "50mg Candy Type non generic",
+        "form": "Candy Type",
+        "price": 2.99,
+        "unitSize": ["50","100"],
+        "image": "/images/vitaminc.jpg"
+       },
+       { "id":3,
+        "name":"Metroclopamida",
+        "description": "100 mg Table Non Generic",
+        "form": "Table",
+        "price": 3.99,
+        "unitSize": ["50","100"],
+        "image": "/images/metro.jpg"
+       },
+       { "id":4,
+        "name":"Venadrilina",
+        "description": "50 mg Syrup non Generic",
+        "form": "Syrup",
+        "price": 5.99,
+        "unitSize": ["50","100","150"],
+        "image": "/images/vena.jpg"
+       }
+    ]
+}
